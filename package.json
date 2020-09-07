@@ -6,9 +6,9 @@
     "collectCoverageFrom": [
       "src/**/*.{js,jsx,ts,tsx}",
       "!<rootDir>/node_modules/",
-      "!<rootDir>/index.tsx",
-      "!<rootDir>/serviceWorker.ts",
-      "!<rootDir>/react-app-env.d.ts"
+      "!<rootDir>/src/index.tsx",
+      "!<rootDir>/src/serviceWorker.ts",
+      "!<rootDir>/src/react-app-env.d.ts"
     ],
     "coverageThreshold": {
       "global": {
